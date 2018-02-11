@@ -1,3 +1,4 @@
 # hello-world
-Get started project\n
+Get started project
+<br/>
 I live in Seattle!
